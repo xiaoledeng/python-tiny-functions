@@ -13,10 +13,10 @@ def list_chunks(list, n):
     for i in range(0, len(list), n):
         yield list[i:i + n]
 
-a = [1,2,3,4,5,6,7,8,9]
-b = list(list_chunks(a, 3))
-b0 = b[0]
-b1 = b[1]
+# a = [1,2,3,4,5,6,7,8,9]
+# b = list(list_chunks(a, 3))
+# b0 = b[0]
+# b1 = b[1]
 
-print(b)
-print(b0,b1)
+# print(b)
+# print(b0,b1)

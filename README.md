@@ -14,4 +14,5 @@ I said: "Python is good, I use Python tiny functions."
 - [list_remove_duplicate.py](list_remove_duplicate.py): remove duplicates in a given list
 - [list_union.py](list_union.py): get the union between two lists
 - [read_file_to_list.py](read_file_to_list.py): get a list of each line in the file
+- [write_list_to_file.py](write_list_to_file.py): write a list into the file 
 

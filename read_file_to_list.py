@@ -15,7 +15,7 @@ def read_file_to_list(file):
             result.append(list(line.strip('\n').split(','))[0])
     return result
 
-# example
-a = read_file_to_list("example.txt")
-print('The len of the list is:',len(a))
-print(a)
+# # example
+# a = read_file_to_list("example.txt")
+# print('The len of the list is:',len(a))
+# print(a)

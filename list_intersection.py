@@ -11,11 +11,11 @@ def list_intersection(list_a,list_b):
     '''get the intersection between two lists'''
     return list(set(list_a).intersection(set(list_b)))
 
-a = [1,2,3]
-b = [2,3,4]
+# a = [1,2,3]
+# b = [2,3,4]
 
-c = list_intersection(a, b)
-d = list_intersection(b, a)
+# c = list_intersection(a, b)
+# d = list_intersection(b, a)
 
-print(c)
-print(d)
+# print(c)
+# print(d)
