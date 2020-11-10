@@ -1,4 +1,4 @@
-##Python-tiny-functions
+## Python-tiny-functions
 
 This project helps to collect useful tiny functions of python3 in my daily work.
 
